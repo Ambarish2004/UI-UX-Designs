@@ -20,13 +20,18 @@ This repository contains four UI/UX designs created in Figma. These designs show
   
 
 
-3. **Design 3: [Design Name]**
-   - **Description:** Briefly describe the design, its purpose, and the main features.
-   - **Link to Figma File:** [Insert Figma link]
+3. **Design 3: Login Page**
+   
+   - **Description:** This design features the login and sign-up pages for a clothing shop. The login page is initially solid and clearly visible, while the sign-up page is blurred in the background. When a user                        clicks on "Sign Up," the sign-up page gradually becomes clear and visible as the login page fades out, and vice versa. The design is tailored to a clothing shop theme, with visual elements                         that reflect the aesthetics of fashion and apparel.
 
-4. **Design 4: [Design Name]**
-   - **Description:** Briefly describe the design, its purpose, and the main features.
-   - **Link to Figma File:** [Insert Figma link]
+   - **Link to Figma File:** https://www.figma.com/design/LfbZQ8TUdpAeRU2QhZC5WW/shop?node-id=0-1&t=phYH6FFfIAOVnKHB-1
+  
+   
+4. **Design 4: Shop Web Page**
+
+   - **Description:** This design is a web page for an online store named Fashion Haven. Inspired by popular shopping platforms like Meesho and Flipkart, the layout and functionality are designed to offer a                             seamless shopping experience. The design adheres to essential UI/UX principles, ensuring an intuitive and user-friendly interface that enhances the overall user experience.
+   - 
+   - **Link to Figma File:** https://www.figma.com/design/LfbZQ8TUdpAeRU2QhZC5WW/shop?node-id=10-119&t=phYH6FFfIAOVnKHB-1
 
 ## How to View
 
@@ -38,4 +43,4 @@ To view these designs, click on the Figma links provided above. Each design is a
 
 ## Contact
 
-For any queries or feedback, feel free to reach out at [Your Email Address].
+For any queries or feedback, feel free to reach out at ambarish.22211511@viit.ac.in
